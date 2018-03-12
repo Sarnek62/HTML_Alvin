@@ -1,4 +1,9 @@
 function sayHello()
 {
-  alert("Hello !")
+  alert("Hello !");
+}
+
+function sayGoobye()
+{
+  alert("Goodbye !");
 }
